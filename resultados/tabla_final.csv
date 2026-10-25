@@ -1,0 +1,6 @@
+,Umbral,Exactitud,Precisión,Recall,F1,ROC-AUC,% alertas,CV ROC-AUC (media),CV ROC-AUC (desv.)
+Regresión logística,0.17,0.815,0.378,0.732,0.498,0.859,0.244,0.853,0.005
+Random Forest,0.5,0.819,0.383,0.719,0.5,0.854,0.236,0.852,0.006
+XGBoost,0.17,0.822,0.388,0.722,0.504,0.855,0.234,0.852,0.005
+Regla ACWR > 1.5,1.5,0.83,0.313,0.297,0.305,0.741,0.12,0.728,0.012
+Clase mayoritaria,0.5,0.874,0.0,0.0,0.0,0.5,0.0,0.5,0.0

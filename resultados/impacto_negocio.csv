@@ -1,0 +1,4 @@
+Escenario,Sobrecargas en la semana,Detectadas,Se escapan,Alertas a revisar,Falsas alarmas,Minutos del coach (2 min/alerta)
+Regla ACWR > 1.5 (hoy),39,12,28,37,26,75
+"Modelo, umbral 0.5 (Actividad 5)",39,10,29,16,6,32
+"Modelo, umbral 0.17 (propuesto)",39,29,10,76,47,152

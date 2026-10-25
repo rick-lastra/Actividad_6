@@ -1,0 +1,13 @@
+Comparación,Métrica,Diferencia media,p t pareada,p Wilcoxon,¿Significativa?
+Regresión logística vs Clase mayoritaria,ROC-AUC,0.3528,0.0,0.002,Sí
+Regresión logística vs Clase mayoritaria,F1,0.4966,0.0,0.002,Sí
+Regresión logística vs Clase mayoritaria,Recall,0.7098,0.0,0.002,Sí
+Regresión logística vs Regla ACWR > 1.5,ROC-AUC,0.1248,0.0,0.002,Sí
+Regresión logística vs Regla ACWR > 1.5,F1,0.2187,0.0,0.002,Sí
+Regresión logística vs Regla ACWR > 1.5,Recall,0.4407,0.0,0.002,Sí
+Regresión logística vs Random Forest,ROC-AUC,0.0013,0.2869,0.375,No
+Regresión logística vs Random Forest,F1,0.0016,0.5246,0.625,No
+Regresión logística vs Random Forest,Recall,0.0049,0.2833,0.2754,No
+Regresión logística vs XGBoost,ROC-AUC,0.0012,0.4804,0.4922,No
+Regresión logística vs XGBoost,F1,-0.0013,0.7154,0.625,No
+Regresión logística vs XGBoost,Recall,-0.0018,0.7784,0.9102,No

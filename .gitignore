@@ -1,0 +1,7 @@
+# Archivos que genera MLflow al ejecutar (las capturas van en tablero/capturas_mlflow)
+mlflow.db
+mlruns/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*Zone.Identifier
